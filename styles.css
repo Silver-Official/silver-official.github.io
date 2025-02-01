@@ -1,0 +1,17 @@
+h1 {
+  font-family: system-ui;
+  font-weight: 200;
+}
+p {
+  font-family: system-ui;
+  font-weight: 200;
+}
+button {
+  font-family: system-ui;
+  font-weight: 200;
+  background-color: #00ff9b;
+  border-radius: 25px;
+}
+button:hover {
+  background-color: #0032ff;
+}
