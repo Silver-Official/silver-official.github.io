@@ -1,0 +1,8 @@
+init_config:
+
+instances:
+  - name: httpdog
+    url: http://silver-offical.github.io
+    username: silver
+    password: publicpass
+    timeout: 1
